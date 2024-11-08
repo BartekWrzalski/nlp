@@ -1,0 +1,3 @@
+*.gz
+lab2/bert-lora
+lab2/wandb
