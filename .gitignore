@@ -1,3 +1,4 @@
 *.gz
 lab2/bert-lora
-lab2/wandb
+lab2/bert-lora-seq
+lab2/bert-lora-token
