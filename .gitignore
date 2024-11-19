@@ -1,6 +1,7 @@
 *.gz
 lab2/bert-lora
 lab2/bert-lora-seq
+lab2/bert-lora-seq-aug
 lab2/gpt2-lora-seq
 lab2/bert-lora-token
 lab2/gpt2-lora-token
