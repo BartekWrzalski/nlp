@@ -3,7 +3,7 @@
   "auto_mapping": null,
   "base_model_name_or_path": "sdadas/polish-gpt2-small",
   "bias": "none",
-  "fan_in_fan_out": false,
+  "fan_in_fan_out": true,
   "inference_mode": true,
   "init_lora_weights": true,
   "layer_replication": null,
